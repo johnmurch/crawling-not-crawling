@@ -1,0 +1,14 @@
+{
+  "name": "crawling-not-crawling",
+  "version": "1.0.0",
+  "description": "Crawling not crawling - extract urls from sitemaps and group by folder",
+  "main": "index.js",
+  "dependencies": {
+    "sitemapper": "^3.2.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Murch",
+  "license": "MIT"
+}
