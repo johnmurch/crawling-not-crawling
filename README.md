@@ -29,6 +29,12 @@ urls*\* - urls from sitemaps
 groups*\* - urls grouped by url
 ```
 
+## Setup
+
+```
+npm install
+```
+
 ## RUN
 
 ```
